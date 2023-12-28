@@ -1,0 +1,12 @@
+pkgbase = rojo
+	pkgdesc = Rojo enables Roblox developers to use professional-grade software engineering tools
+	pkgver = 7.2.1
+	pkgrel = 1
+	url = https://github.com/rojo-rbx/rojo
+	arch = x86_64
+	license = MPL2
+	makedepends = cargo
+	source = rojo-7.2.1.tar.gz::https://static.crates.io/crates/rojo/rojo-7.2.1.crate
+	sha256sums = ec9849860b177d496bbf9f1df1b20eaa9ec5106a2ae3d540f6e76f576e8a6286
+
+pkgname = rojo
